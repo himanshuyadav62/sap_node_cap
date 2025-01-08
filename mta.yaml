@@ -49,5 +49,5 @@ resources:
       service-plan: application
       path: ./xs-security.json
       config:
-        xsappname: bookshop-${org}-${space}
+        xsappname: bookshop-auth
         tenant-mode: dedicated
